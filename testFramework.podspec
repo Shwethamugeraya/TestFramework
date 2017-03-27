@@ -17,6 +17,5 @@ s.platform     = :ios, '9.0'
 s.requires_arc = true
 
 s.source       = { :path => 'https://github.com/Shwethamugeraya/TestFramework.git'}
-echo 3.0 > .swift-version
 
 end
