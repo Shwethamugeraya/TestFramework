@@ -14,6 +14,9 @@ public class TestAPI:NSObject {
     let var2 = ""
     let var3 = ""
     let var4 = ""
+    let var5 = ""
+    let var6 = ""
+    let var7 = ""
     public static func testMethod() {
         print("Test Method Called")
     }
