@@ -10,6 +10,10 @@ import Foundation
 
 public class TestAPI:NSObject {
 
+    let var1 = ""
+    let var2 = ""
+    let var3 = ""
+    let var4 = ""
     public static func testMethod() {
         print("Test Method Called")
     }
