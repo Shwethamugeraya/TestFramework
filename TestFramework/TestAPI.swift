@@ -29,3 +29,7 @@ public class TestAPI:NSObject {
 //Test 1 added
 
 //Test 2 ADDED
+
+//Test 3 ADDED
+
+//Test 4 ADDED
